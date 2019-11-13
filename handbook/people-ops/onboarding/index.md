@@ -2,8 +2,8 @@
 
 Some [onboarding docs](https://github.com/sourcegraph/Graphbook/tree/master/Onboarding) are in the Graphbook (which are in the process of being migrated to this handbook):
 
-- [Distributed teammates (US-based)](https://github.com/sourcegraph/Graphbook/blob/master/Onboarding/Distributed%20teammates%20(US%20based).md)
-- [Distributed teammates (non-US-based)](https://github.com/sourcegraph/Graphbook/blob/master/Onboarding/Distributed%20teammates%20(international).md)
+- [Remote teammates (US-based)](https://github.com/sourcegraph/Graphbook/blob/master/Onboarding/Distributed%20teammates%20(US%20based).md)
+- [Remote teammates (non-US-based)](https://github.com/sourcegraph/Graphbook/blob/master/Onboarding/Distributed%20teammates%20(international).md)
 - [Engineers](https://github.com/sourcegraph/Graphbook/blob/master/Onboarding/Engineers.md)
 - [SF-based teammates](https://github.com/sourcegraph/Graphbook/blob/master/Onboarding/SF%20based%20teammates.md)
 - [Sales team](../../sales/onboarding/index.md)
