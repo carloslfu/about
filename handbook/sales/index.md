@@ -3,6 +3,7 @@
 The Sales team represents us and our values to customers, bringing back dollars and feedback to help us grow.
 
 - [Pricing](https://about.sourcegraph.com/pricing)
+- [FAQ](faq.md)
 - [Sales team onboarding](onboarding/index.md)
 
 ## Pipeline and models
