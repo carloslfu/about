@@ -75,3 +75,5 @@ Sourcegraph is an [open product, an open company, and open source](../company/op
 ## Acknowledgements
 
 Portions of this documentation are derived from [GitLab's handbook](https://docs.gitlab.com) (see [license](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/LICENCE)).
+
+<!-- dummy -->
